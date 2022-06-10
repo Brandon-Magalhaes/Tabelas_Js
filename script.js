@@ -1,6 +1,6 @@
 var atividade = document.getElementById('atividade');//input
 var dtAtv = document.querySelector('#dataAtv')//data
-var btnCadstrar = document.querySelector('input[type=submit]') //button
+var btnCadastrar = document.querySelector('input[type=submit]') //button
 var indice = 0;
 
 btnCadastrar.addEventListener('click',(e) => {
